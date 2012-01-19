@@ -30,5 +30,3 @@ module Vkontakte
     end
   end
 end
-
-p Music.new.find "Elvis - Tender"
